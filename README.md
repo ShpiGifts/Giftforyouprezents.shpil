@@ -33,7 +33,7 @@ app.use(bodyParser.json());
 const gifts = [
   { name: "Парфум", chance: 0.1 },
   { name: "Плюшевий ведмедик", chance: 0.3 },
-  { name: "Казковий змій", chance: 0.2 },
+  { name "Казковий змій", chance: 0.2 },
   { name: "Капсула-сюрприз", chance: 0.4 }
 ];
 
